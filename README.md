@@ -1,6 +1,8 @@
 # WEF
 Contains R scripts for wind energy forecaster (WEF), built for Climate Central. The purpose is to predict how much wind energy will be produced in each state over the next three-day period.
 
+modified in RStudio
+
 # Code Example
 
 # Motivation
