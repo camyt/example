@@ -16,3 +16,4 @@ Describe and show how to run the tests with code examples.
 # License
 MIT License.
 local write
+local write
